@@ -1,0 +1,4 @@
+artifacts:
+  test-model:
+    path: models/model.pkl
+    type: model
