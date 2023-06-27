@@ -2,3 +2,6 @@ artifacts:
   openmodel:
     path: models/openmodel.md5
     type: model
+  someverylongfilenamemodelname:
+    path: some/very/long/file/path/destination/folder/someverylongfilenamemodelname.md5
+    type: model
