@@ -1,0 +1,4 @@
+artifacts:
+  create-pr-model:
+    path: models/create-pr-model.md5
+    type: model
