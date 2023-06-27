@@ -1,0 +1,4 @@
+artifacts:
+  openmodel:
+    path: models/openmodel.md5
+    type: model
