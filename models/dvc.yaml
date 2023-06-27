@@ -1,0 +1,4 @@
+artifacts:
+  hellomodel:
+    path: models/hellomodel.md5
+    type: model
