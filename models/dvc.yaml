@@ -1,0 +1,4 @@
+artifacts:
+  test:
+    path: models/test.md5
+    type: model
