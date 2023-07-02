@@ -29,3 +29,7 @@ stages:
     params:
     - base
     - evaluate
+artifacts:
+  new-model-one:
+    path: models/new-model.md5
+    type: model
